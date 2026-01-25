@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Ufuos, and I'm a petroleum engineer who is interested in all things Python!
+- 🔭 I’m currently working on few github projects the first being house price prediction
+- 🌱 I’m currently learning computer vision
+
 <!--
 **ufuos10/ufuos10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
