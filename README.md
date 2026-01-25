@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 My name is Ufuos, and I'm a petroleum engineer who is interested in all things Python!
-- 🔭 I’m currently working on few github projects and the first being house price prediction
+- 🔭 I’m currently working on a few github projects and the first being house price prediction
 - 🌱 I’m currently learning computer vision
 
 <!--
