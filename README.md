@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Ufuos, and I studied petroleum and gas engineering and I'm interested in all things Python!
+My name is Ufuos, I studied petroleum and gas engineering and I'm interested in all things Python!
 - 🔭 I’m currently working on a few github projects and the first being house price prediction
 - 🌱 I’m currently learning computer vision
 
