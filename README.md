@@ -1,8 +1,8 @@
 ## Hi there 👋
 
 My name is Ufuos, I studied petroleum and gas engineering and I'm interested in all things Python/Machine_Learning!
-- 🔭 I’m currently working on a few github projects and the first being house price prediction
-- 🌱 I’m currently learning Machine Learning in Production!
+- 🔭 I’m currently working on a few github projects and the first being house price prediction which I'm hoping to take to production
+- 🌱 I’m currently learning how to Build and Deploy ML Systems (DevOps to MLOps Bootcamp)
 
 <!--
 **ufuos10/ufuos10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
